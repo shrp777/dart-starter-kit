@@ -4,7 +4,10 @@ Projet modèle pour la réalisation d'une application en ligne de commande avec 
 
 ## Organisation des fichiers
 
-- Point d'entrée de l'application : `./bin/demo.dart`
+- Point d'entrée de l'application : `./bin/dartstarterkit.dart`
+
+Attention : __le nom du fichier binaire doit correspondre au nom du projet__ (si projet nommé "dartstarterkit", le fichier doit être ./bin/dartstarterkit.dart).
+
 - Code source : `./lib`
 - Tests unitaires : `./test`
 
